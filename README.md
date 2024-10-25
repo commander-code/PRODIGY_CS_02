@@ -1,5 +1,7 @@
-Image Encryption and Decryption Tool
-Overview
+#Image Encryption and Decryption Tool
+#Overview
+
+
 This Python script provides a simple implementation of image encryption and decryption using pixel manipulation. The encryption process swaps the red (R) and blue (B) channels of each pixel, creating a scrambled version of the image. The decryption process reverses this swap to restore the original image.
 
 Code Breakdown
